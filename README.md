@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayan Sikder</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danssayan" alt="danssayan" /></a> </p>
 
-- 🔭 I’m currently working on **Event Management System**
-
-- 🌱 I’m currently learning **Machine Learning, Digital Image Processing**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 👯 I’m looking to collaborate on **any AI based projects**
 
